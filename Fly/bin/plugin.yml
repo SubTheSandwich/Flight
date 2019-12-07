@@ -1,0 +1,8 @@
+name: Flight
+version: 1.0
+author: subFN
+main: me.subcoding.fly.Main
+
+commands:
+  fly:
+    usage: /<command>

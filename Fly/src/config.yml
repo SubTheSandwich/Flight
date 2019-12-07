@@ -1,0 +1,9 @@
+#Flying Messages
+
+flying_disabled_message: '&eYour flight has been &cdisabled&e.'
+flying_enabled_message: '&eYour flight has been &aenabled&e.'
+
+#No Permission and Console
+
+nopermission_message: '&cNo permission'
+console_message: "&cYou can only execute this command ingame!'
